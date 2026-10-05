@@ -1,0 +1,20 @@
+
+{
+  "expo": {
+    "name": "Dhanda AI",
+    "slug": "dhanda-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.dhandaai.marketing",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
